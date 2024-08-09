@@ -10,19 +10,20 @@ I am proficient in cloud platforms such as AWS/Azure/GCP/Oracle. I am a Certifie
 
 🔬 **Technical Proficiency:**
 - **Data Science:** Advanced skills in Machine Learning, Deep Learning, Power BI, Apache Spark and Kafka
-- **Programming:** Experienced in Python with a strong focus on Flask and Django frameworks
 
 💻 **Software Development Experience:**
-- **Languages:** Proficient in C#, C++, Java and JavaScript
-- **Frameworks:** Knowledgeable in ASP.NET, Handlebars and Node.js
+- **Languages:** Proficient in Python, C#, JavaScript and Typescript
+- **Frameworks:** Knowledgeable in ASP.NET, Node.js, Flask and Angular
 - **DevOps:** Skilled in using Azure DevOps, GIT and familiar with Kubernetes, Linux (Ubuntu) and Docker
-
-📧 **Contact:**
-Email me at [hanimsofiahshahrom@gmail.com](mailto:hanimsofiahshahrom@gmail.com)
 
 **Connect with me on LinkedIn:**
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/hanimsofiah/)
 
-**Check out my GCP Profile:**
-[<img src="https://media.licdn.com/dms/image/sync/D4D27AQGPfohzOAGKpw/articleshare-shrink_800/0/1715753552225?e=2147483647&v=beta&t=Cq4XniAPXccWVKI18CyzfHpLHXSNnNYLMAb6Y6MRpFg" alt="GCP" width="60" height="30">](https://www.cloudskillsboost.google/public_profiles/0163f96c-0396-4921-98ac-b04f79bd9715)
+### 🔥 Streak Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanimsofiah&theme=onedark)
 
+### 🏆 GitHub Trophies:
+![Trophies](https://github-profile-trophy.vercel.app/?username=hanimsofiah&theme=onedark)
+
+### 📚 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanimsofiah&layout=compact&theme=onedark)
