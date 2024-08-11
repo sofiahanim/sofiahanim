@@ -26,4 +26,5 @@ I am proficient in cloud platforms such as AWS/Azure/GCP/Oracle. I am a Certifie
 ![Trophies](https://github-profile-trophy.vercel.app/?username=hanimsofiah&theme=onedark)
 
 ### 📚 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanimsofiah&layout=compact&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanimsofiah&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
