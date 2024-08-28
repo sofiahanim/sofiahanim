@@ -17,14 +17,14 @@ I am proficient in cloud platforms such as AWS/Azure/GCP/Oracle. I am a Certifie
 - **DevOps:** Skilled in using Azure DevOps, GIT and familiar with Kubernetes, Linux (Ubuntu) and Docker
 
 **Connect with me on LinkedIn:**
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/hanimsofiah/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/sofiahanim/)
 
 ### 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanimsofiah&theme=onedark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofiahanim&theme=onedark)
 
 ### 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=hanimsofiah&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=sofiahanim&theme=onedark)
 
 ### 📚 Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanimsofiah&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiahanim&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
