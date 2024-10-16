@@ -1,7 +1,6 @@
 # Hi 👋 I'm Hanim Sofiah
 
-### Master's Degree Candidate in Data Science at Universiti Malaya (expected to graduate in February 2025)
-
+### Master's Degree Candidate in Data Science at Universiti Malaya
 🎓 **Background:**
 I hold a Computer Science degree from Universiti Sains Malaysia and am currently pursuing a Master's in Data Science at Universiti Malaya. I have a strong foundation in computer science, data science and cloud technologies
 
