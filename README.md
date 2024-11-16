@@ -18,9 +18,6 @@ I hold a Computer Science degree from Universiti Sains Malaysia and am currently
 ### 🔥 Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofiahanim&theme=onedark)
 
-### 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=sofiahanim&theme=onedark)
-
 ### 📚 Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiahanim&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
