@@ -8,7 +8,7 @@ I hold a Computer Science degree from Universiti Sains Malaysia and am currently
 - **Data Science:** Advanced skills in Machine Learning & Deep Learning
 
 💻 **Software Development Experience:**
-- **Languages:** Proficient in Python, C#, JavaScript and Typescript
+- **Languages:** Proficient in R, Python, C#, JavaScript and Typescript
 - **Frameworks:** Knowledgeable in ASP.NET, Node.js, Flask and Angular 13
 - **DevOps:** Skilled in using Azure DevOps, GIT and Docker
 
